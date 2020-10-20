@@ -1,4 +1,9 @@
-### Thiago Nobrega 👋
+# Thiago Nobrega 👋
+
+## Ciência da Computação 
+
+<img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
+    align="right"  width="300px">
 
 <!--
 **thnobrega/thnobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
